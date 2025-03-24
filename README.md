@@ -56,6 +56,6 @@
 
 ---
 Watch my contribution graph get eaten by a snake:
-<img src="https://raw.githubusercontent.com/abhaydineshk-10/abhaydineshk-10/snake/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/abhaydineshk-10/abhaydineshk-10/output/snake.svg" alt="Snake animation" />
 ###
 ---
