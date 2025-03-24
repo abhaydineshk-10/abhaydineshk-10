@@ -53,3 +53,9 @@
 </div>
 
 ###
+
+---
+Watch my contribution graph get eaten by a snake:
+<img src="https://raw.githubusercontent.com/alanbennyofficial/alanbennyofficial/output/snake.svg" alt="Snake animation" />
+###
+---
