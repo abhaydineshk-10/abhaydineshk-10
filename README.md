@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abhayy and I'm a first-year BCA student at Nitte Institute of Professional Education with a passion for coding, problem-solving, and building creative projects. Currently diving deep into Python, HTML/CSS, and exploring the world Cybersecurity., from Managlore, India</p>
+<p align="left">My name is Abhayy and I'm a Second-year BCA student at Nitte Institute of Professional Education with a passion for coding, problem-solving, and building creative projects. Currently diving deep into Python, HTML/CSS, and exploring the world Cybersecurity., from Managlore, India</p>
 
 ###
 
