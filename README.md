@@ -46,14 +46,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/316sr7dhgyskifbs4qht4fakuu2u">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316sr7dhgyskifbs4qht4fakuu2u&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 ---
 Watch my contribution graph get eaten by a snake:
 <img src="https://raw.githubusercontent.com/abhaydineshk-10/abhaydineshk-10/output/snake.svg" alt="Snake animation" />
