@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Bachelors In Computer in Cyber security<br>🎯 Goals: Mastering the highest level of Coding experience<br>🎲 Fun fact: The first computer bug was literally a bug! In 1947, engineers working on the Harvard Mark II computer found a moth trapped in a relay, causing a malfunction. They taped the moth to their logbook and labeled it as the "first actual case of bug being found." That's how the term "debugging" was born! 🐞</p>
+<p align="left">📚 I'm currently learning Bachelors In Computer in Cyber security<br>🎯 Goals: Mastering the highest level of Coding experience<br>🎲 Fun fact: The first computer bug was literally a bug! In 1947, engineers working on the Harvard Mark II computer found a moth trapped in a relay, causing a malfunction. They taped the moth to their logbook and labeled it as the "first actual case of bug being found." That's how the term "debugging" was born! 🐞</p>
 
 ###
 
